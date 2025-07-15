@@ -2,6 +2,5 @@
 
 😄 My name is Eduardo Miguel
 
-- 🔭 I’m currently working on Ei Soluções Inteligentes
-- 🌱 I’m currently learning .NET, React.js and Vue.js
+- 🔭 I’m currently working with .NET and React.js
 - I will never stop studying!!!
