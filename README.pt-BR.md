@@ -10,7 +10,7 @@
 
 📍 Campo Grande, MS, Brasil · 🌎 Trabalhando remotamente para um cliente nos EUA · 🟢 Aberto a freelas e projetos pontuais
 
-[Portfólio](https://developer-portifolio.vercel.app/pt) · [LinkedIn](https://www.linkedin.com/in/eduardomigueldev) · [Email](mailto:eduardomigueldev@gmail.com)
+[Portfólio](https://eduardo-miguel.vercel.app/pt) · [LinkedIn](https://www.linkedin.com/in/eduardomigueldev) · [Email](mailto:eduardomigueldev@gmail.com)
 
 ---
 
@@ -19,6 +19,7 @@
 Seis anos construindo e modernizando sistemas em produção com C#/ASP.NET e React.
 
 - 🔭 Atualmente migrando aplicações legadas em .NET Framework 4.5 para .NET 8 para um cliente nos EUA, entregando funcionalidades em frontends Angular e React (Next.js) e em serviços C# ASP.NET.
+- 🛒 Criei e mantenho sozinho o **[Shopemgo](https://shopemgo.com)**: sistema de vendas, estoque e catálogo online para lojas pequenas, do banco de dados ao pipeline de deploy.
 - 🚚 Antes disso, supervisionei uma pequena equipe de produto e lancei o **SAJ Rastreamento** do zero — uma plataforma web e mobile de rastreamento de veículos que hoje acompanha mais de 1.000 veículos, incluindo caminhões.
 - 🧱 Eu me importo com código que sobrevive ao contato com produção: SOLID, testado, documentado e chato do jeito certo.
 - 🗣️ Português nativo, inglês fluente, confortável trabalhando de forma assíncrona em fusos diferentes.
@@ -50,15 +51,16 @@ Seis anos construindo e modernizando sistemas em produção com C#/ASP.NET e Rea
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| [**Shopemgo**](https://shopemgo.com) | Sistema de vendas e estoque para lojas, que criei e mantenho sozinho: venda no balcão com código de barras pela câmera, estoque, promoções e catálogo online com pedidos pelo WhatsApp. [Ver online](https://shopemgo.com) · _Código privado._ | Next.js · TypeScript · C# .NET 8 · PostgreSQL · Docker |
 | **SAJ Rastreamento** | Plataforma de rastreamento de veículos e frotas construída e lançada do zero, com mais de 1.000 veículos em produção. _Código privado._ | React Native · React · C# ASP.NET · SQL Server · AWS |
-| [**Portfólio**](https://github.com/Eduardo-Miguel/portifolio-eduardo-miguel) | Meu site pessoal, bilíngue (PT/EN) com tema claro e escuro. [Ver online](https://developer-portifolio.vercel.app/pt) | Next.js · TypeScript |
+| [**Portfólio**](https://github.com/Eduardo-Miguel/portifolio-eduardo-miguel) | Meu site pessoal, bilíngue (PT/EN) com tema claro e escuro. [Ver online](https://eduardo-miguel.vercel.app/pt) | Next.js · TypeScript |
 | [**Deadly Scrum**](https://github.com/Eduardo-Miguel/deadly-scrum) | Um cronômetro de daily bem-humorado: não passe dos cinco minutos. [Ver online](https://deadly-scrum.vercel.app) | Next.js · TypeScript |
 | [**QVacina Mobile**](https://github.com/Eduardo-Miguel/qvacina-mobile) | Front-end mobile do aplicativo QVacina. | React Native · Expo · TypeScript |
 
 ## Vamos conversar
 
-Tem um projeto, um sistema legado que precisa ser modernizado, ou quer uma segunda opinião técnica?
+Precisa de um site, uma loja virtual ou um sistema para o seu negócio? Ou de um sistema legado modernizado? Me manda uma mensagem e a gente coloca no ar.
 
 - 💼 [linkedin.com/in/eduardomigueldev](https://www.linkedin.com/in/eduardomigueldev)
 - 📫 [eduardomigueldev@gmail.com](mailto:eduardomigueldev@gmail.com)
-- 🌐 [developer-portifolio.vercel.app](https://developer-portifolio.vercel.app/pt)
+- 🌐 [eduardo-miguel.vercel.app](https://eduardo-miguel.vercel.app/pt)
